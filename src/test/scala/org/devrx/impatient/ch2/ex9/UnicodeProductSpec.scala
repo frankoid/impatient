@@ -1,4 +1,4 @@
-package org.devrx.impatient.ch2.ex7
+package org.devrx.impatient.ch2.ex9
 
 import org.devrx.impatient.ch2.ex6.AbstractUnicodeProductSpec
 
